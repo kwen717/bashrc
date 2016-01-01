@@ -1,0 +1,2 @@
+# bashrc
+kw's bashrc
